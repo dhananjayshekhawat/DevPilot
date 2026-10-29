@@ -1,0 +1,14 @@
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Java / Maven
+**/target/
+
+# Next.js / Node
+**/node_modules/
+**/.next/
+
+# Local IDE files
+.vscode/
